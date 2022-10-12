@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/homie/cmakeQuickStart/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/homie/cmakeQuickStart/main.cpp",
+  "file": "/home/homie/cmakeQuickStart/main.cpp"
+}
+]

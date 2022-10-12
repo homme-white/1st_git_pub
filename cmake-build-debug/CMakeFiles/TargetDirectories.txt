@@ -1,0 +1,3 @@
+/home/homie/cmakeQuickStart/cmake-build-debug/CMakeFiles/main.dir
+/home/homie/cmakeQuickStart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/homie/cmakeQuickStart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
